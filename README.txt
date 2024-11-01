@@ -5,22 +5,4 @@
  * @copyright The code copyright belongs to Koala(Shunlei Yu)
  */
  
- //Òý½ÅÅäÖÃ
- 
- //UART2 ´®¿Ú2Òý½Å
- PA2 UART2_TX
- PA3 UART2_RX
- 
- //TIM3 Ö±Á÷Âí´ïÒý½Å
- PA6 Motor1
- PA7 Motor2
- PB0 Motor3
- PB1 Motor4
- 
- //TIM2 ¶æ»úÒý½Å
- PA15 Servos1
- PB3 Servos2
- PB10 Servos3
- PB11 Servos4
- 
- //
+è“ç‰™é¥æŽ§å°è½¦å®Œæ•´ä»£ç ï¼Œå†…é™„ä¸€äº›æ²¡æœ‰ç”¨åˆ°çš„åŠŸèƒ½ï¼Œå¦‚æœ‰éœ€è¦å¯ä»¥ä½¿ç”¨
